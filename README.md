@@ -22,3 +22,10 @@ Documentation: Detailed documentation on hardware setup, sensor integration, and
 We welcome contributions and collaborations from fellow robotics enthusiasts and developers. If you are passionate about robotics, AI, or autonomous systems, we invite you to explore our code, experiment with enhancements, and engage in discussions through issues and pull requests.
 
 Let's push the boundaries of Sumo Robot capabilities together and create even more intelligent and formidable opponents!
+
+## Sematic Digram of the robot
+![Screenshot 2021-07-28 135620](https://github.com/HagarSameh/SumoRobot/assets/71992147/4a7aace2-eaf9-4149-ad5d-9dfbef931562)
+
+## Mechanical Design of the Robot
+![Screenshot 2021-07-28 142355](https://github.com/HagarSameh/SumoRobot/assets/71992147/e3691992-cd90-479c-a70e-3886d0e3ab58)
+
