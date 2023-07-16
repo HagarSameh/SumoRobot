@@ -15,8 +15,8 @@ This project has been a collaborative effort, bringing together a dedicated team
 ## Repository Contents
 Within this repository, you will find:
 
-C++ Arduino Code: The source code responsible for controlling the Sumo Robots, implementing the advanced attack and defense strategies. /n
-Documentation: Detailed documentation on hardware setup, sensor integration, and code explanation. /n
+C++ Arduino Code: The source code responsible for controlling the Sumo Robots, and implementing the advanced attack and defense strategies.
+Documentation: Detailed documentation on hardware setup, sensor integration, and code explanation. 
 
 ## Get Involved
 We welcome contributions and collaborations from fellow robotics enthusiasts and developers. If you are passionate about robotics, AI, or autonomous systems, we invite you to explore our code, experiment with enhancements, and engage in discussions through issues and pull requests.
